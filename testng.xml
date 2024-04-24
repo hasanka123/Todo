@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TodoAppSuite">
+    <test name="TodoListTests">
+        <classes>
+            <class name="TodoListTest"/>
+        </classes>
+    </test>
+</suite>

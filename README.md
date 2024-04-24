@@ -6,7 +6,7 @@ Step 4: once build success, go to testng.xml and click Run
 Step 5: chrome browser open and will execute all the tests (ChromeDriver will download automatically)
 
 **Implementation strategy:**
-Technology: Java, Selenium, TestNG, Maven
+Technology: Java, Selenium (Action class/JavascriptExecutor), TestNG, Maven
 Design Pattern: Page Object Model (POM) and Page Factory
 
 

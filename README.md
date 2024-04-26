@@ -7,7 +7,7 @@ Step 5: Chrome browser will open and execute all the tests (ChromeDriver setup n
 
 OR
 
-Make sure local machine has installed java and maven, then follow below steps
+Make sure local machine has installed java 18 and maven, then follow below steps
 Step 1: Clone https://github.com/hasanka123/Todo.git
 Step 2: Open terminal and navigate to project directory 
 Step 3: Run mvn compile
